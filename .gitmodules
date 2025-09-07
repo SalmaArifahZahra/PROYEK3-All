@@ -4,3 +4,6 @@
 [submodule "062_Proyek3_CI4"]
 	path = 062_Proyek3_CI4
 	url = https://github.com/SalmaArifahZahra/062_Proyek3_CI4.git
+[submodule "Portofolio_SalmaAZ"]
+	path = Portofolio_SalmaAZ
+	url = https://github.com/SalmaArifahZahra/Portofolio_SalmaAZ.git
