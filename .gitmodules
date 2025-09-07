@@ -1,3 +1,6 @@
 [submodule "062_Proyek3_PHPNative"]
 	path = 062_Proyek3_PHPNative
 	url = https://github.com/SalmaArifahZahra/062_Proyek3_PHPNative.git
+[submodule "062_Proyek3_CI4"]
+	path = 062_Proyek3_CI4
+	url = https://github.com/SalmaArifahZahra/062_Proyek3_CI4.git
